@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Gema
 
-<!--
-**gmp395/gmp395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♀️ About Me
 
-Here are some ideas to get you started:
+En transición profesional hacia el desarrollo web.
+Estudiante de DAW + Bootcamp en Factoría F5.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current Stack
+
+HTML | CSS | Java | MySQL | Git
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/gema-m-8b1209348
+- Email: gmp395@gmail.com
+
+## 📊 GitHub Stats
+
+![Gema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmp395&show_icons=true&theme=radical&hide_border=true)
