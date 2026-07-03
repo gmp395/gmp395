@@ -11,7 +11,7 @@ HTML | CSS | Java | MySQL | Git
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/gema-m-8b1209348
+- LinkedIn: www.linkedin.com/in/gmp395
 - Email: gmp395@gmail.com
 
 ## 📊 GitHub Stats
