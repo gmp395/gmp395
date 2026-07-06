@@ -52,16 +52,18 @@ Vue.js · Pinia · Vue Router · JavaScript · Tailwind CSS · SCSS · Vitest ·
 
 ### Employee Dashboard
 
-Aplicación web para la gestión y visualización de empleados.
+Aplicación web para la gestión y visualización de empleados, desarrollada con JavaScript vanilla.
 
-**Tecnologías utilizadas:**  
-JavaScript · HTML5 · CSS3 · API REST · Git/GitHub
+Tecnologías:
+JavaScript · HTML5 · CSS3 · Fetch API · LocalStorage · Vitest · Git/GitHub
 
-**Funcionalidades principales:**
+Funcionalidades:
 - Login y gestión de sesión
-- Consumo de API REST
-- Renderizado dinámico de datos
-- Sistema de filtros
+- Consumo de API externa
+- Renderizado dinámico de empleados
+- Filtrado por inicial
+- Validaciones de formulario
+- Testing unitario con Vitest
 - Diseño responsive
 
 ---
