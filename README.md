@@ -35,20 +35,19 @@ Me centro en el desarrollo de aplicaciones web frontend y backend, aplicando tec
 
 ## Proyectos destacados
 
-### CineMagic | SPA Web
+### CineMagic | SPA desarrollada en equipo
 
-Aplicación web desarrollada en equipo siguiendo metodología Scrum, orientada a la gestión de personajes y favoritos.
+Aplicación web desarrollada con Vue 3 siguiendo metodología Scrum.
 
-**Tecnologías utilizadas:**  
-Vue.js · Pinia · Vue Router · JavaScript · Tailwind CSS · Sass · Git/GitHub
-
-**Funcionalidades principales:**
-- Sistema de autenticación de usuarios
-- Dashboard de usuario
+Mi contribución:
+- Desarrollo del área privada de usuario
+- Perfil de usuario y ajustes de cuenta
+- Header autenticado
 - Gestión de favoritos
-- Panel de administración
-- Consumo de API externa
-- Diseño responsive
+- Integración de estado y persistencia de sesión
+
+Tecnologías:
+Vue.js · Pinia · Vue Router · JavaScript · Tailwind CSS · SCSS · Vitest · Playwright
 
 
 ### Employee Dashboard
