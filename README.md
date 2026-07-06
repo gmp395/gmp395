@@ -4,34 +4,46 @@
 
 Actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW) y cursando una formación intensiva especializada en Desarrollo Web Full Stack con Factoría F5, en colaboración con Capgemini.
 
-Me centro en el desarrollo de aplicaciones web frontend y backend, trabajando con tecnologías actuales y metodologías ágiles en proyectos colaborativos.
+Me centro en el desarrollo de aplicaciones web frontend y backend, aplicando tecnologías actuales, metodologías ágiles y buenas prácticas de desarrollo en proyectos colaborativos.
 
 ---
 
 ## Tecnologías y herramientas
 
 ### Frontend
-HTML5 · CSS3 · Sass · JavaScript · Vue.js · React
+- HTML5
+- CSS3
+- Sass
+- JavaScript
+- Vue.js
+- React
 
 ### Backend y bases de datos
-Java · SQL · Bases de datos relacionales
+- Java
+- SQL
+- Bases de datos relacionales
 
-### Herramientas
-Git · GitHub · Jira · Scrum · Figma · VS Code
+### Herramientas y metodología
+- Git
+- GitHub
+- Jira
+- Scrum
+- Figma
+- VS Code
 
 ---
 
 ## Proyectos destacados
 
-### CineMagic | Aplicación SPA
+### CineMagic | SPA Web
 
-Aplicación web desarrollada en equipo siguiendo metodología Scrum.
+Aplicación web desarrollada en equipo siguiendo metodología Scrum, orientada a la gestión de personajes y favoritos.
 
-Tecnologías:
-Vue.js · Pinia · Vue Router · JavaScript · Tailwind CSS · Sass
+**Tecnologías utilizadas:**  
+Vue.js · Pinia · Vue Router · JavaScript · Tailwind CSS · Sass · Git/GitHub
 
-Funcionalidades:
-- Autenticación de usuarios
+**Funcionalidades principales:**
+- Sistema de autenticación de usuarios
 - Dashboard de usuario
 - Gestión de favoritos
 - Panel de administración
@@ -41,16 +53,17 @@ Funcionalidades:
 
 ### Employee Dashboard
 
-Aplicación de gestión desarrollada con JavaScript.
+Aplicación web para la gestión y visualización de empleados.
 
-Tecnologías:
-JavaScript · HTML5 · CSS3 · API REST
+**Tecnologías utilizadas:**  
+JavaScript · HTML5 · CSS3 · API REST · Git/GitHub
 
-Funcionalidades:
+**Funcionalidades principales:**
 - Login y gestión de sesión
-- Consumo de datos externos
-- Renderizado dinámico
-- Filtros de búsqueda
+- Consumo de API REST
+- Renderizado dinámico de datos
+- Sistema de filtros
+- Diseño responsive
 
 ---
 
@@ -59,3 +72,13 @@ Funcionalidades:
 Mi experiencia profesional previa me ha permitido participar en procesos de digitalización, coordinación y mejora de sistemas.
 
 Actualmente combino esta trayectoria con el desarrollo web, aportando una forma de trabajo basada en el análisis, la organización y la resolución de problemas.
+
+---
+
+## Contacto
+
+Asturias, España
+
+LinkedIn: www.linkedin.com/in/gmp395 
+
+GitHub: github.com/gmp395
