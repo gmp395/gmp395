@@ -68,3 +68,4 @@ La experiencia profesional previa en procesos de digitalización y coordinación
 Ubicación: Oviedo (Asturias), España
 
 - [LinkedIn](https://www.linkedin.com/in/gmp395)
+  
