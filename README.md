@@ -65,8 +65,10 @@ Proyecto Full Stack con arquitectura cliente-servidor, frontend desarrollado con
 
 `Java` · `Spring Boot` · `Angular` · `TypeScript` · `API REST` · `SQL` · `MariaDB` · `Git` · `GitHub`
 
-[Repositorio](https://github.com/gmp395/sumando-capacidades) · [Demo](https://gmp395.github.io/sumando-capacidades/)  
+[Repositorio](https://github.com/gmp395/sumando-capacidades) · [Demo](https://gmp395.github.io/sumando-capacidades/)
+
 ---
+
 
 ### Mi Diario — Project Inside Out
 
