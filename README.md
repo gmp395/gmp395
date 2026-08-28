@@ -1,28 +1,55 @@
 # Gema Miguel
-## Desarrolladora Web Junior
+## Desarrolladora Web Full Stack Junior
 
-Desarrolladora web en formación, finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW) y ampliando conocimientos mediante una formación intensiva en Desarrollo Web Full Stack de Factoría F5 en colaboración con Capgemini.
+Desarrolladora web en formación, a falta de dos asignaturas para finalizar el Grado Superior en Desarrollo de Aplicaciones Web (DAW), y ampliando mi formación mediante un programa intensivo en Desarrollo Web Full Stack impartido por Factoría F5 en colaboración con Capgemini.
 
-**Stack principal:** Vue.js · JavaScript · Java · SQL · Git · GitHub
+Desarrollo aplicaciones frontend y backend, con especial interés en Java, Spring Boot, Angular, Vue.js, APIs REST, bases de datos relacionales, testing y buenas prácticas de desarrollo.
+
+**Stack principal:** Java · Spring Boot · Angular · TypeScript · JavaScript · Vue.js · SQL · Git · GitHub
 
 ---
 
 ## Tecnologías y herramientas
 
 ### Frontend
-- HTML5 · CSS3 · Sass
-- JavaScript
+- HTML5 · CSS3 · Sass · Tailwind CSS
+- JavaScript · TypeScript
+- Angular
 - Vue.js
 - React
 
-### Backend y bases de datos
-- Java
-- SQL / bases de datos relacionales
-- Docker 
+### Backend
+- Java · Java 21
+- Spring Boot
+- Node.js
+- APIs REST
+- Maven
+
+### Bases de datos
+- SQL
+- MariaDB
+- Bases de datos relacionales
+
+### Testing y calidad
+- JUnit 5
+- Vitest
+- Playwright
+- JaCoCo
+- Testing unitario
+- Testing end-to-end
+
+### Arquitectura y buenas prácticas
+- MVC
+- Principios SOLID
+- Programación orientada a objetos
+- Arquitectura cliente-servidor
+- Componentes reutilizables
+- UML
 
 ### Herramientas y metodología
-- Git, GitHub
-- Jira, Scrum
+- Git · GitHub · Git Flow
+- Jira · Scrum
+- Docker
 - Figma
 - VS Code
 
@@ -30,42 +57,83 @@ Desarrolladora web en formación, finalizando el Grado Superior en Desarrollo de
 
 ## Proyectos destacados
 
-###  CineMagic — SPA en equipo
-Aplicación de cine desarrollada con Vue 3 en equipo, siguiendo metodología Scrum. Contribución principal: desarrollo del área privada de usuario (perfil, ajustes de cuenta, header autenticado y gestión de favoritos), incluyendo persistencia de sesión y gestión de estado.
+### Sumando Capacidades — Aplicación Full Stack para ONG
 
-`Vue.js` · `Pinia` · `Vue Router` · `Tailwind CSS` · `Vitest` · `Playwright`
+Aplicación web desarrollada en equipo para la gestión de una ONG orientada al apoyo a personas con discapacidad.
 
-[Repositorio](https://github.com/gmp395/project-p5-digital-academy-team4-the-univers-of-things.git) [Demo](https://lcortes89.github.io/project-p5-digital-academy-team4-the-univers-of-things/)
+Proyecto Full Stack con arquitectura cliente-servidor, frontend desarrollado con Angular y backend con Java y Spring Boot. Integración entre ambas capas mediante API REST y gestión de información mediante base de datos relacional.
 
----
+`Java` · `Spring Boot` · `Angular` · `TypeScript` · `API REST` · `SQL` · `MariaDB` · `Git` · `GitHub`
 
-###  Calculadora multifuncional — Vue 3
-Proyecto individual: calculadora con las operaciones básicas, conversor de divisas en tiempo real (CurrencyFreaks) y un módulo de tiempo (Asturias/Nacional), todo en una sola vista y mobile-first. Pruebas unitarias y e2e (Vitest) y e2e (Playwright) para los tres módulos.
-
-`Vue.js` · `Pinia` · `Axios` · `Vitest` · `Playwright`
-
-[Repositorio](https://github.com/gmp395/proyecto-individual-vue-calculadora.git) · [Demo](https://gmp395.github.io/proyecto-individual-vue-calculadora/)
+[Repositorio](https://github.com/gmp395/pe-gestion-ong-tfg)
 
 ---
 
-###  Employee Dashboard
-Panel de gestión de empleados hecho con JavaScript vanilla: login, consumo de API externa, filtrado y renderizado dinámico, validaciones de formulario y diseño responsive. Testeado con Vitest.
+### Mi Diario — Project Inside Out
 
-`JavaScript` · `HTML5` · `CSS3` · `Fetch API` · `LocalStorage` · `Vitest`
+Aplicación de consola desarrollada en Java 21 para gestionar momentos vividos asociados a emociones y fechas.
 
- [Repositorio](https://github.com/gmp395/employee-dashboard) ·  [Demo](https://gmp395.github.io/employee-dashboard/)
+Permite añadir, consultar, modificar, eliminar y filtrar momentos, exportarlos a CSV y proteger el acceso mediante contraseña.
+
+El proyecto sigue una arquitectura MVC y aplica principios SOLID, separación mediante repositorios e interfaces y buenas prácticas de programación orientada a objetos.
+
+Cuenta con 55 tests desarrollados con JUnit 5 y una cobertura superior al 70 %, verificada mediante JaCoCo.
+
+`Java 21` · `Maven` · `JUnit 5` · `JaCoCo` · `MVC` · `SOLID` · `UML` · `Git` · `GitHub` · `Jira`
+
+[Repositorio](https://github.com/gmp395/inside-out)
+
+---
+
+### Calculadora multifuncional — Vue 3
+
+Proyecto individual desarrollado con Vue 3 que integra tres módulos en una única aplicación responsive:
+
+- Calculadora de operaciones básicas.
+- Conversor de divisas mediante API externa.
+- Consulta meteorológica mediante API externa.
+
+El proyecto utiliza gestión de estado con Pinia, consumo de APIs REST con Axios, arquitectura basada en componentes reutilizables y pruebas unitarias y end-to-end.
+
+`Vue.js` · `JavaScript` · `Pinia` · `Vue Router` · `Axios` · `API REST` · `Vitest` · `Playwright`
+
+[Repositorio](https://github.com/gmp395/calculadora-multifuncional) · [Demo](https://gmp395.github.io/calculadora-multifuncional/)
+
+---
+
+### Employee Dashboard
+
+Aplicación web desarrollada con JavaScript vanilla para la gestión y visualización de empleados.
+
+Incluye autenticación y gestión de sesión, consumo de API REST externa, filtrado y renderizado dinámico de información, validación de formularios, diseño responsive y pruebas unitarias.
+
+`JavaScript` · `HTML5` · `CSS3` · `API REST` · `Fetch API` · `LocalStorage` · `Vitest`
+
+[Repositorio](https://github.com/gmp395/employee-dashboard) · [Demo](https://gmp395.github.io/employee-dashboard/)
 
 ---
 
 ## Sobre mí
 
-La experiencia profesional previa en procesos de digitalización y coordinación de sistemas ha reforzado habilidades como la organización, el análisis y la resolución de problemas. Actualmente esas capacidades se aplican al desarrollo web, poniendo especial atención en la calidad del código, los tests, los commits atómicos y el trabajo colaborativo.
+Mi experiencia profesional previa en coordinación de equipos, digitalización de procesos, formación de personal y gestión de incidencias ha reforzado competencias como la organización, la comunicación, el análisis y la resolución de problemas.
+
+Actualmente aplico estas capacidades al desarrollo de software, poniendo especial atención en la calidad del código, el testing, las buenas prácticas, los commits atómicos y el trabajo colaborativo mediante metodologías ágiles.
+
+---
+
+## Actualmente
+
+- Finalizando el CFGS en Desarrollo de Aplicaciones Web.
+- Formación intensiva Full Stack con Factoría F5 y Capgemini.
+- Profundizando en Java, Spring Boot, Angular y desarrollo de APIs REST.
+- Desarrollo de proyectos individuales y colaborativos.
+- Aplicación de testing, Git Flow, Scrum y buenas prácticas de desarrollo.
 
 ---
 
 ## Contacto
 
-Ubicación: Oviedo (Asturias), España
+**Oviedo (Asturias), España**
 
 - [LinkedIn](https://www.linkedin.com/in/gmp395)
-  
+- [GitHub](https://github.com/gmp395)
