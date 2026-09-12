@@ -9,7 +9,7 @@ Mi trayectoria previa en gestión de equipos, optimización de procesos y resolu
 
 **Stack principal:**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,ts,js,mysql,git" height="40" alt="Stack Principal" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,ts,js,mysql,git" height="38" alt="Stack Principal" />
 </a>
 
 ---
@@ -17,80 +17,44 @@ Mi trayectoria previa en gestión de equipos, optimización de procesos y resolu
 ## Tecnologías y herramientas
 
 ### Frontend
+**Tecnologías:** HTML5 · CSS3 · JavaScript · TypeScript · Angular · Vue.js · Tailwind CSS · Sass  
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,tailwind,sass)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=java,spring,maven,nodejs,express)](https://skillicons.dev)
-- Java 21 · Spring Boot · APIs REST · Maven
+**Tecnologías:** Java 21 · Spring Boot · Node.js · Express · Maven · APIs REST  
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,maven)](https://skillicons.dev)
 
 ### Bases de datos
+**Tecnologías:** MySQL · MariaDB · PostgreSQL · MongoDB · SQL  
 [![Database Skills](https://skillicons.dev/icons?i=mysql,maria,postgres,mongodb)](https://skillicons.dev)
-- Bases de datos relacionales (SQL) y NoSQL
 
 ### Testing y calidad
+**Herramientas:** JUnit 5 · Vitest · Playwright · JaCoCo  
 [![Testing Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
-- **Frameworks:** JUnit 5 · Vitest · Playwright · JaCoCo
-- **Metodología:** Testing unitario · Testing End-to-End (E2E) · Cobertura de código
+- Testing unitario · Testing End-to-End (E2E) · Cobertura de código
 
 ### Arquitectura y buenas prácticas
--  **Arquitectura:** MVC · Cliente-Servidor · Componentes reutilizables
--  **Paradigmas & Principios:** Programación Orientada a Objetos (POO) · Principios SOLID · Clean Code
--  **Diseño:** Diagramas UML · Modelado relacional
+- 📐 **Arquitectura:** MVC · Cliente-Servidor · Componentes reutilizables
+- 🧠 **Paradigmas & Principios:** Programación Orientada a Objetos (POO) · Principios SOLID · Clean Code
+- 📊 **Diseño:** Diagramas UML · Modelado relacional
 
-### Herramientas y metodología
-[![Tools Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,figma,idea,postman)](https://skillicons.dev)
-- **Control de versiones:** Git Flow · GitHub
-- **Gestión & Ágil:** Jira · Scrum · Metodologías ágiles
+### Herramientas y entorno
+**Herramientas:** Git · GitHub · VS Code · IntelliJ IDEA · Postman · Docker · Figma · Jira  
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,figma)](https://skillicons.dev)
+- **Metodologías:** Git Flow · Scrum · Metodologías ágiles
 
 ---
 
 ## Proyectos destacados
 
-### Sumando Capacidades — Aplicación Full Stack para ONG
+*(Ver proyectos fijados en el perfil para más detalle)*
 
-Aplicación web desarrollada en equipo para la gestión integral de una ONG orientada al apoyo de personas con discapacidad. 
-
-Diseñada bajo arquitectura cliente-servidor con frontend en Angular y backend en Java con Spring Boot. Integra ambas capas mediante APIs REST y gestiona la información con una base de datos relacional.
-
-`Java` · `Spring Boot` · `Angular` · `TypeScript` · `API REST` · `SQL` · `MariaDB` · `Git` · `GitHub`
-
-[Repositorio](https://github.com/gmp395/sumando-capacidades) · [Demo](https://gmp395.github.io/sumando-capacidades/)
-
----
-
-### Mi Diario — Project Inside Out
-
-Aplicación de consola en Java 21 para la gestión de experiencias personales asociadas a emociones y fechas. Permite operaciones CRUD completos, filtrado avanzado y exportación a datos CSV.
-
-Sigue una arquitectura MVC rigurosa aplicando principios SOLID y desacoplamiento mediante repositorios e interfaces. Incluye 55 pruebas unitarias con JUnit 5 superando el 70% de cobertura verificado por JaCoCo.
-
-`Java 21` · `Maven` · `JUnit 5` · `JaCoCo` · `MVC` · `SOLID` · `UML` · `Git` · `GitHub` · `Jira`
-
-[Repositorio](https://github.com/gmp395/inside-out)
-
----
-
-### Calculadora Multifuncional — Vue 3
-
-Aplicación web modular y responsive desarrollada con Vue 3 que integra tres utilidades principales: calculadora de operaciones básicas, conversor de divisas en tiempo real y consulta meteorológica mediante consumo de APIs externas.
-
-Aplica gestión de estado global con Pinia, enrutamiento dinámico, arquitectura basada en componentes reutilizables y suite de pruebas unitarias y E2E.
-
-`Vue 3` · `JavaScript` · `Pinia` · `Vue Router` · `Axios` · `API REST` · `Vitest` · `Playwright`
-
-[Repositorio](https://github.com/gmp395/calculadora-multifuncional) · [Demo](https://gmp395.github.io/calculadora-multifuncional/)
-
----
-
-### Employee Dashboard
-
-Plataforma web desarrollada en JavaScript vanilla para la gestión dinámica de empleados.
-
-Incluye sistema de autenticación, consumo de API REST externa, filtrado en tiempo real, validación de formularios, persistencia de sesión con LocalStorage y pruebas unitarias con Vitest.
-
-`JavaScript` · `HTML5` · `CSS3` · `API REST` · `Fetch API` · `LocalStorage` · `Vitest`
-
-[Repositorio](https://github.com/gmp395/employee-dashboard) · [Demo](https://gmp395.github.io/employee-dashboard/)
+| Proyecto | Descripción | Tecnologías | Enlaces |
+| :--- | :--- | :--- | :---: |
+| **Sumando Capacidades** | Aplicación web Full Stack para la gestión integral de una ONG. | `Angular` `Spring Boot` `Java` `MariaDB` | [Repositorio](https://github.com/gmp395/sumando-capacidades) · [Demo](https://gmp395.github.io/sumando-capacidades/) |
+| **Mi Diario — Inside Out** | Aplicación de consola Java (MVC, SOLID, 70%+ cobertura de test). | `Java 21` `Maven` `JUnit 5` `JaCoCo` | [Repositorio](https://github.com/gmp395/inside-out) |
+| **Calculadora Multifuncional** | Web app modular con conversor de divisas y clima en tiempo real. | `Vue 3` `Pinia` `Axios` `Vitest` | [Repositorio](https://github.com/gmp395/calculadora-multifuncional) · [Demo](https://gmp395.github.io/calculadora-multifuncional/) |
+| **Employee Dashboard** | Panel interactivo de gestión de empleados con JS vanilla. | `JavaScript` `Fetch API` `LocalStorage` | [Repositorio](https://github.com/gmp395/employee-dashboard) · [Demo](https://gmp395.github.io/employee-dashboard/) |
 
 ---
 
@@ -114,5 +78,5 @@ Actualmente traslado ese perfil analítico al desarrollo web, priorizando la man
 
  **Oviedo (Asturias), España**
 
--  [LinkedIn](https://www.linkedin.com/in/gmp395)
--  [GitHub](https://github.com/gmp395)
+-  [Perfil en LinkedIn](https://www.linkedin.com/in/gmp395)
+-  [GitHub Main Profile](https://github.com/gmp395)
