@@ -12,47 +12,27 @@ Desarrollo aplicaciones frontend y backend, con especial interés en Java, Sprin
 ## Tecnologías y herramientas
 
 ### Frontend
-- HTML5 · CSS3 · Sass · Tailwind CSS
-- JavaScript · TypeScript
-- Angular
-- Vue.js
-- React
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vue,react)](https://skillicons.dev)
 
 ### Backend
-- Java · Java 21
-- Spring Boot
-- Node.js
-- APIs REST
-- Maven
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,nodejs,maven)](https://skillicons.dev)
+- Java 21 · APIs REST
 
 ### Bases de datos
-- SQL
-- MariaDB
-- Bases de datos relacionales
+[![Database Skills](https://skillicons.dev/icons?i=mysql,maria)](https://skillicons.dev)
+- Bases de datos relacionales · SQL
 
 ### Testing y calidad
-- JUnit 5
-- Vitest
-- Playwright
-- JaCoCo
-- Testing unitario
-- Testing end-to-end
+- JUnit 5 · Vitest · Playwright · JaCoCo
+- Testing unitario · Testing end-to-end
 
 ### Arquitectura y buenas prácticas
-- MVC
-- Principios SOLID
-- Programación orientada a objetos
-- Arquitectura cliente-servidor
-- Componentes reutilizables
-- UML
+- MVC · Principios SOLID · Programación orientada a objetos
+- Arquitectura cliente-servidor · Componentes reutilizables · UML
 
 ### Herramientas y metodología
-- Git · GitHub · Git Flow
-- Jira · Scrum
-- Docker
-- Figma
-- VS Code
-
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode)](https://skillicons.dev)
+- Git Flow · Jira · Scrum
 ---
 
 ## Proyectos destacados
