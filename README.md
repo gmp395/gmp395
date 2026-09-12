@@ -8,6 +8,7 @@ Mi trayectoria previa en gestión de equipos, optimización de procesos y resolu
 <br>
 
 **Stack principal:**  
+Java 21 · Spring Boot · Angular · Vue.js · TypeScript · JavaScript · MySQL · Git  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,vue,ts,js,mysql,git" height="38" alt="Stack Principal" />
 </a>
@@ -34,9 +35,9 @@ Mi trayectoria previa en gestión de equipos, optimización de procesos y resolu
 - Testing unitario · Testing End-to-End (E2E) · Cobertura de código
 
 ### Arquitectura y buenas prácticas
-- 📐 **Arquitectura:** MVC · Cliente-Servidor · Componentes reutilizables
-- 🧠 **Paradigmas & Principios:** Programación Orientada a Objetos (POO) · Principios SOLID · Clean Code
-- 📊 **Diseño:** Diagramas UML · Modelado relacional
+-  **Arquitectura:** MVC · Cliente-Servidor · Componentes reutilizables
+-  **Paradigmas & Principios:** Programación Orientada a Objetos (POO) · Principios SOLID · Clean Code
+-  **Diseño:** Diagramas UML · Modelado relacional
 
 ### Herramientas y entorno
 **Herramientas:** Git · GitHub · VS Code · IntelliJ IDEA · Postman · Docker · Figma · Jira  
