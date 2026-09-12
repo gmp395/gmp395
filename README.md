@@ -79,5 +79,5 @@ Actualmente traslado ese perfil analítico al desarrollo web, priorizando la man
 
  **Oviedo (Asturias), España**
 
--  [Perfil en LinkedIn](https://www.linkedin.com/in/gmp395)
--  [GitHub Main Profile](https://github.com/gmp395)
+-  [LinkedIn](https://www.linkedin.com/in/gmp395)
+-  [GitHub](https://github.com/gmp395)
