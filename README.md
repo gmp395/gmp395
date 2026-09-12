@@ -78,7 +78,7 @@ Actualmente traslado ese perfil analítico al desarrollo web, priorizando la man
 
 ## Contacto
 
- **Oviedo (Asturias), España**
+**Oviedo (Asturias), España**
 
 -  [LinkedIn](https://www.linkedin.com/in/gmp395)
 -  [GitHub](https://github.com/gmp395)
