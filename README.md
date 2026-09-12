@@ -1,120 +1,110 @@
 # Gema Miguel
 ## Desarrolladora Web Full Stack Junior
 
-Desarrolladora web en formación, a falta de dos asignaturas para finalizar el Grado Superior en Desarrollo de Aplicaciones Web (DAW), y ampliando mi formación mediante un programa intensivo en Desarrollo Web Full Stack impartido por Factoría F5 en colaboración con Capgemini.
+Desarrolladora Web Full Stack Junior, finalizando el CFGS en Desarrollo de Aplicaciones Web (pendiente de una asignatura y FCT) y completando un programa intensivo Full Stack en Factoría F5 junto a Capgemini[cite: 1].
 
-Desarrollo aplicaciones frontend y backend, con especial interés en Java, Spring Boot, Angular, Vue.js, APIs REST, bases de datos relacionales, testing y buenas prácticas de desarrollo.
+Mi trayectoria previa en gestión de equipos, optimización de procesos y resolución de incidencias me aporta una sólida capacidad analítica y organizativa, la cual aplico al desarrollo de software con foco en la calidad del código, el testing y las buenas prácticas[cite: 1].
 
-**Stack principal:** Java · Spring Boot · Angular · TypeScript · JavaScript · Vue.js · SQL · Git · GitHub
+**Stack principal:** Java 21 · Spring Boot · Angular · Vue.js · TypeScript · SQL · Git Flow · Scrum[cite: 1]
 
 ---
 
 ## Tecnologías y herramientas
 
 ### Frontend
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vue,react)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,vue,tailwind,sass)](https://skillicons.dev)
 
 ### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=java,spring,nodejs,maven)](https://skillicons.dev)
-- Java 21 · APIs REST
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,maven)](https://skillicons.dev)
+- Java 21 · APIs REST · Spring Boot[cite: 1]
 
 ### Bases de datos
 [![Database Skills](https://skillicons.dev/icons?i=mysql,maria)](https://skillicons.dev)
-- Bases de datos relacionales · SQL
+- Bases de datos relacionales · SQL[cite: 1]
 
 ### Testing y calidad
-- JUnit 5 · Vitest · Playwright · JaCoCo
-- Testing unitario · Testing end-to-end
+- JUnit 5 · Vitest · Playwright · JaCoCo[cite: 1]
+- Testing unitario · Testing End-to-End (E2E)[cite: 1]
 
 ### Arquitectura y buenas prácticas
-- MVC · Principios SOLID · Programación orientada a objetos
-- Arquitectura cliente-servidor · Componentes reutilizables · UML
+- MVC · Principios SOLID · Programación Orientada a Objetos (POO)[cite: 1]
+- Arquitectura cliente-servidor · Componentes reutilizables · UML[cite: 1]
 
 ### Herramientas y metodología
-[![Tools Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode)](https://skillicons.dev)
-- Git Flow · Jira · Scrum
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,figma)](https://skillicons.dev)
+- Git Flow · Jira · Scrum · Metodologías ágiles[cite: 1]
+
 ---
 
 ## Proyectos destacados
 
-### Sumando Capacidades — Aplicación Full Stack para ONG
+### Sumando Capacidades — Aplicación Full Stack para ONG[cite: 1]
 
-Aplicación web desarrollada en equipo para la gestión de una ONG orientada al apoyo a personas con discapacidad.
+Aplicación web desarrollada en equipo para la gestión integral de una ONG orientada al apoyo de personas con discapacidad[cite: 1]. 
 
-Proyecto Full Stack con arquitectura cliente-servidor, frontend desarrollado con Angular y backend con Java y Spring Boot. Integración entre ambas capas mediante API REST y gestión de información mediante base de datos relacional.
+Diseñada bajo arquitectura cliente-servidor con frontend en Angular y backend en Java con Spring Boot[cite: 1]. Integra ambas capas mediante APIs REST y gestiona la información con una base de datos relacional[cite: 1].
 
-`Java` · `Spring Boot` · `Angular` · `TypeScript` · `API REST` · `SQL` · `MariaDB` · `Git` · `GitHub`
+`Java` · `Spring Boot` · `Angular` · `TypeScript` · `API REST` · `SQL` · `MariaDB` · `Git` · `GitHub`[cite: 1]
 
-[Repositorio](https://github.com/gmp395/sumando-capacidades) · [Demo](https://gmp395.github.io/sumando-capacidades/)
-
----
-
-
-### Mi Diario — Project Inside Out
-
-Aplicación de consola desarrollada en Java 21 para gestionar momentos vividos asociados a emociones y fechas.
-
-Permite añadir, consultar, modificar, eliminar y filtrar momentos, exportarlos a CSV y proteger el acceso mediante contraseña.
-
-El proyecto sigue una arquitectura MVC y aplica principios SOLID, separación mediante repositorios e interfaces y buenas prácticas de programación orientada a objetos.
-
-Cuenta con 55 tests desarrollados con JUnit 5 y una cobertura superior al 70 %, verificada mediante JaCoCo.
-
-`Java 21` · `Maven` · `JUnit 5` · `JaCoCo` · `MVC` · `SOLID` · `UML` · `Git` · `GitHub` · `Jira`
-
-[Repositorio](https://github.com/gmp395/inside-out)
+[Repositorio](https://github.com/gmp395/sumando-capacidades) · [Demo](https://gmp395.github.io/sumando-capacidades/)[cite: 1]
 
 ---
 
-### Calculadora multifuncional — Vue 3
+### Mi Diario — Project Inside Out[cite: 1]
 
-Proyecto individual desarrollado con Vue 3 que integra tres módulos en una única aplicación responsive:
+Aplicación de consola en Java 21 para la gestión de experiencias personales asociadas a emociones y fechas[cite: 1]. Permite operaciones CRUD completos, filtrado avanzado y exportación a datos CSV[cite: 1].
 
-- Calculadora de operaciones básicas.
-- Conversor de divisas mediante API externa.
-- Consulta meteorológica mediante API externa.
+Sigue una arquitectura MVC rigurosa aplicando principios SOLID y desacoplamiento mediante repositorios e interfaces[cite: 1]. Incluye 55 pruebas unitarias con JUnit 5 superando el 70% de cobertura verificado por JaCoCo[cite: 1].
 
-El proyecto utiliza gestión de estado con Pinia, consumo de APIs REST con Axios, arquitectura basada en componentes reutilizables y pruebas unitarias y end-to-end.
+`Java 21` · `Maven` · `JUnit 5` · `JaCoCo` · `MVC` · `SOLID` · `UML` · `Git` · `GitHub` · `Jira`[cite: 1]
 
-`Vue.js` · `JavaScript` · `Pinia` · `Vue Router` · `Axios` · `API REST` · `Vitest` · `Playwright`
-
-[Repositorio](https://github.com/gmp395/calculadora-multifuncional) · [Demo](https://gmp395.github.io/calculadora-multifuncional/)
+[Repositorio](https://github.com/gmp395/inside-out)[cite: 1]
 
 ---
 
-### Employee Dashboard
+### Calculadora Multifuncional — Vue 3[cite: 1]
 
-Aplicación web desarrollada con JavaScript vanilla para la gestión y visualización de empleados.
+Aplicación web modular y responsive desarrollada con Vue 3 que integra tres utilidades principales: calculadora de operaciones básicas, conversor de divisas en tiempo real y consulta meteorológica mediante consumo de APIs externas[cite: 1].
 
-Incluye autenticación y gestión de sesión, consumo de API REST externa, filtrado y renderizado dinámico de información, validación de formularios, diseño responsive y pruebas unitarias.
+Aplica gestión de estado global con Pinia, enrutamiento dinámico, arquitectura basada en componentes reutilizables y suite de pruebas unitarias y E2E[cite: 1].
 
-`JavaScript` · `HTML5` · `CSS3` · `API REST` · `Fetch API` · `LocalStorage` · `Vitest`
+`Vue 3` · `JavaScript` · `Pinia` · `Vue Router` · `Axios` · `API REST` · `Vitest` · `Playwright`[cite: 1]
 
-[Repositorio](https://github.com/gmp395/employee-dashboard) · [Demo](https://gmp395.github.io/employee-dashboard/)
+[Repositorio](https://github.com/gmp395/calculadora-multifuncional) · [Demo](https://gmp395.github.io/calculadora-multifuncional/)[cite: 1]
+
+---
+
+### Employee Dashboard[cite: 1]
+
+Plataforma web desarrollada en JavaScript vanilla para la gestión dinámica de empleados[cite: 1].
+
+Incluye sistema de autenticación, consumo de API REST externa, filtrado en tiempo real, validación de formularios, persistencia de sesión con LocalStorage y pruebas unitarias con Vitest[cite: 1].
+
+`JavaScript` · `HTML5` · `CSS3` · `API REST` · `Fetch API` · `LocalStorage` · `Vitest`[cite: 1]
+
+[Repositorio](https://github.com/gmp395/employee-dashboard) · [Demo](https://gmp395.github.io/employee-dashboard/)[cite: 1]
 
 ---
 
 ## Sobre mí
 
-Mi experiencia profesional previa en coordinación de equipos, digitalización de procesos, formación de personal y gestión de incidencias ha reforzado competencias como la organización, la comunicación, el análisis y la resolución de problemas.
+Mi trayectoria previa en entornos multidisciplinares me ha permitido consolidar competencias clave en organización de equipos, digitalización de procesos, formación y resolución de incidencias[cite: 1]. 
 
-Actualmente aplico estas capacidades al desarrollo de software, poniendo especial atención en la calidad del código, el testing, las buenas prácticas, los commits atómicos y el trabajo colaborativo mediante metodologías ágiles.
+Actualmente traslado ese perfil analítico al desarrollo web, priorizando la mantenibilidad del código, commits atómicos, testing continuo y dinámicas colaborativas bajo metodologías Scrum[cite: 1].
 
 ---
 
 ## Actualmente
 
-- Finalizando el CFGS en Desarrollo de Aplicaciones Web.
-- Formación intensiva Full Stack con Factoría F5 y Capgemini.
-- Profundizando en Java, Spring Boot, Angular y desarrollo de APIs REST.
-- Desarrollo de proyectos individuales y colaborativos.
-- Aplicación de testing, Git Flow, Scrum y buenas prácticas de desarrollo.
+- Finalizando el CFGS en Desarrollo de Aplicaciones Web (Linkia FP)[cite: 1].
+- Programa de especialización Full Stack en Factoría F5 & Capgemini[cite: 1].
+- Profundizando en arquitectura backend con Spring Boot y testing avanzado[cite: 1].
 
 ---
 
 ## Contacto
 
-**Oviedo (Asturias), España**
+ **Oviedo (Asturias), España**[cite: 1]
 
-- [LinkedIn](https://www.linkedin.com/in/gmp395)
-- [GitHub](https://github.com/gmp395)
+-  [LinkedIn](https://www.linkedin.com/in/gmp395)[cite: 1]
+-  [GitHub](https://github.com/gmp395)[cite: 1]
