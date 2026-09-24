@@ -1,9 +1,9 @@
 # Gema Miguel
 ## Desarrolladora Web Full Stack Junior
 
-Finalizando el CFGS en Desarrollo de Aplicaciones Web (pendiente de una asignatura y FCT) y completando un programa intensivo Full Stack en Factoría F5 junto a Capgemini.
+Finalizando el CFGS en Desarrollo de Aplicaciones Web (DAW) y completando un programa intensivo Full Stack en Factoría F5 junto a Capgemini.
 
-Mi trayectoria previa en gestión de equipos, optimización de procesos y resolución de incidencias me aporta una sólida capacidad analítica y organizativa, la cual aplico al desarrollo de software con foco en la calidad del código, el testing y las buenas prácticas.
+Mi trayectoria previa en gestión de equipos, optimización de procesos y resolución de incidencias me ha permitido desarrollar una sólida capacidad analítica, organizativa y de adaptación a diferentes entornos. Actualmente aplico estas competencias al desarrollo de software, con especial atención a la calidad del código, el testing y las buenas prácticas.
 
 <br>
 
